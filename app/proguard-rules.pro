@@ -1,0 +1,2 @@
+-keep class org.sosnetwork.protocol.** { *; }
+-keepclassmembers class org.sosnetwork.protocol.** { *; }
